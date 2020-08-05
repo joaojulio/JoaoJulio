@@ -1,4 +1,4 @@
-<img width=auto src="https://github.com/joaojulio/JoaoJulio/blob/master/Logo-joaojulioalmeida.png"
+<img width="auto" src="https://github.com/joaojulio/JoaoJulio/blob/master/Logo-joaojulioalmeida.png">
 
 ## Bem-vindo 👋
 Gosto de enfrentar problemas reais e buscar insights de soluções através dos dados :computer:
