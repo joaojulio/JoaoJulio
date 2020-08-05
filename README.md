@@ -1,16 +1,15 @@
-### Hi there 👋
+<img width=auto src="https://github.com/joaojulio/JoaoJulio/blob/master/Logo-joaojulioalmeida.png"
 
-<!--
-**joaojulio/JoaoJulio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo 👋
+Gosto de enfrentar problemas reais e buscar insights de soluções através dos dados :computer:
+<br/>:books: Estudante de Ciência de Dados
+<br/>:microscope: Python (NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn e Machine Learning) 
+<br/>:dart: Buscando colaborar em projetos de Machine Learning
+<br/>💬 Sobre mim: Fui atleta durante 9 anos, adoro video-game, sou casado a cinco anos e assito dorama :swimmer::video_game::ring:
+<br/>:e-mail: Entre em contato:
+<br/><a href = "mailto:joaojulio.almeida@gmail.com">joaojulio.almeida@gmail.com</a>
+<br/><a href="https://www.linkedin.com/in/jjalmeida/">LinkedIn</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
